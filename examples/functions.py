@@ -12,8 +12,10 @@ my_function_with_args('Kamil', 'Kowalski')
 
 
 def func_addition(a, b):
-    total = a + b
-    print("%d + %d is equal to %d" % (a, b, total))
+    return a + b
+    # print("%d + %d is equal to %d" % (a, b, total))
 
 
-func_addition(4, 5)
+total = func_addition(1231, 131231)
+print(total)
+
