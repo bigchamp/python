@@ -1,0 +1,17 @@
+902120850
+
+{
+  'update_id': 562812825,
+  'message': {
+    'message_id': 1289,
+    'date': 1588596825,
+    'chat': {
+      'id': -1001268387954,
+      'type': 'supergroup',
+      'title': 'jañajayiq kenesi'
+    },
+    'text': 'test',
+    'entities': [],
+    'caption_entities': [],
+    'photo': [],
+    'new_chat_members': [], 'new_chat_photo': [], 'delete_chat_photo': False, 'group_chat_created': False, 'supergroup_chat_created': False, 'channel_chat_created': False, 'from': {'id': 383288387, 'first_name': 'KD', 'is_bot': False, 'username': 'qosoba', 'language_code': 'en'}}, '_effective_message': {'message_id': 1289, 'date': 1588596825, 'chat': {'id': -1001268387954, 'type': 'supergroup', 'title': 'jañajayiq kenesi'}, 'text': 'test', 'entities': [], 'caption_entities': [], 'photo': [], 'new_chat_members': [], 'new_chat_photo': [], 'delete_chat_photo': False, 'group_chat_created': False, 'supergroup_chat_created': False, 'channel_chat_created': False, 'from': {'id': 383288387, 'first_name': 'KD', 'is_bot': False, 'username': 'qosoba', 'language_code': 'en'}}}

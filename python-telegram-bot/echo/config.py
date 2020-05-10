@@ -1,0 +1,3 @@
+TG_TOKEN = '1045517591:AAGT6rv2R6SAHVBbop1Lvcr49KrTghm9k5k'
+
+TG_BOT_NAME = 'janajayiqbot'
